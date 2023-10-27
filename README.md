@@ -17,8 +17,8 @@ The features we collect are:
 - CH: battery charge, in percentage
 - VOL: voltage
 - CUR: electric current
-- SPD: instantaneous velocity
-- ODO: odometer
+- SPD: instantaneous velocity, in kilometers/hour
+- ODO: odometer, in kilometers
 - BRK: break pedal tilt
 - ACC: accelerator pedal tilt
 - AUT: indicated autonomy, in kilometers
